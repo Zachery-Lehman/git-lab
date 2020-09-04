@@ -39,3 +39,9 @@ Answer 8. commit b3c774710ce1e5bcd681ef1657c48d19769 (Head -> master)
 Answers 9. On branch master
            Your branch is up to date with 'origin/master'.
            Nothing to commit, working tree clean.
+Answer 10. No
+Answer 11. Error
+Answer 12. Yes
+Answer 13. .git
+           .gitignore
+           README.md
