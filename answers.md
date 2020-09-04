@@ -36,4 +36,6 @@ Answer 8. commit b3c774710ce1e5bcd681ef1657c48d19769 (Head -> master)
           Author: Zachery-Lehman (zach.lehman48@gmail.com)
           Date: Fri Sep 4 14:39:34 2020 -0400
             Initial commit
-Answers 9.
+Answers 9. On branch master
+           Your branch is up to date with 'origin/master'.
+           Nothing to commit, working tree clean.
